@@ -1,5 +1,5 @@
 === Quick admin color scheme picker ===
-Contributors: mitchoyoshitaka, nacin, darylkoop
+Contributors: mitchoyoshitaka, nacin, koop
 Author: mitcho (Michael 芳貴 Erlewine)
 Author URI: http://mitcho.com/
 Donate link: https://tinyurl.com/donatetomitcho
@@ -31,7 +31,7 @@ Lets you quickly switch between admin color schemes from the "howdy menu." Happy
 * Align color swatches better. The angel may be in the policy, but the devil is in the details.
 
 = 0.5 =
-* Only display the menu if `is_admin()`. Props darylkoop.
+* Only display the menu if `is_admin()`. Props koop.
 
 = 0.4 =
 * Update to work with WP 3.3, post-[19230](http://core.trac.wordpress.org/changeset/19230). Hopefully this will be the last of the 3.3 fixes...
